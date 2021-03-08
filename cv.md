@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -13,7 +12,7 @@
   </head>
   <body>
     <header>
-      <img src="image/10.jpg" alt="photo" ; width="10%" />
+      <h1>HI! My name is</h1> <br/>
       <h1>Juri Tikhonov</h1>
     </header>
     <section>
